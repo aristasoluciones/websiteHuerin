@@ -8,7 +8,7 @@ jQuery(document).ready(function($) {
 
 
     $(window).scroll(function () {
-        if ($(this).scrollTop() > 200) { // on scroll navbar fadeIn
+        if ($(this).scrollTop() > 10) { // on scroll navbar fadeIn
             $('#navigation-1').removeClass('navbar-transparent');
         } else {
             $('#navigation-1').addClass('navbar-transparent');
