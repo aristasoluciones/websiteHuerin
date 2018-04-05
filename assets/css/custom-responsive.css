@@ -1,0 +1,98 @@
+@media (max-width:991px){
+    .tersus-about-custom.sistema{
+        background: url('../img/style-movil/2018-6-movil.jpg');
+        background-size: cover;
+        background-position:center;
+        position: absolute;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.admin{
+        background-position:center;
+        position: absolute;
+        background: url('../img/style-movil/2018-8-movil.jpg');
+        background-size:cover;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.acount{
+        background: url('../img/style-movil/2018-5-movil.jpg');
+        background-size: cover;
+        background-position:center;
+        position: absolute;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.about{
+        background-position:center;
+        position: absolute;
+        background: url('../img/style-movil/2018-3-movil.jpg');
+        background-size: cover;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.audit{
+        background-position:center;
+        position: absolute;
+        background: url('../img/style-movil/2018-1-movil.jpg');
+        background-size: cover;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.juridico {
+        background: url('../img/style-movil/2018-7-movil.jpg');
+        background-size: cover;
+        background-position:center;
+        position:absolute;
+        -webkit-transition: all .3s ease;
+        height: 100%;
+    }
+    .tersus-about-custom.contacto{
+        background: url('../img/style-movil/2018-9-movil.jpg');
+        background-size:cover;
+        background-position: center;
+        position: absolute;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.invertir{
+        background: url('../img/style-movil/2018-10-movil.jpg');
+        background-size:cover;
+        background-position: center;
+        position: absolute;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.nomina{
+        background: url('../img/style-movil/2018-2-movil.jpg');
+        background-size:cover;
+        background-position: center;
+        position: absolute;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.rhumano{
+        background: url('../img/style-movil/2018-4-movil.jpg');
+        background-size:cover;
+        background-position: center;
+        position: absolute;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.fiscal{
+        background: url('../img/style-movil/2018-4-movil.jpg');
+        background-size:cover;
+        background-position: center;
+        position: absolute;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+    .tersus-about-custom.job{
+        background: url('../img/style-movil/2018-11-movil.jpg');
+        background-size:cover;
+        background-position: center;
+        position: absolute;
+        -webkit-transition: all .3s ease;
+        height:100%;
+    }
+}
