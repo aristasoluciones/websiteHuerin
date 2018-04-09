@@ -30,8 +30,8 @@
 <script src="{$WEB_ROOT}/assets/plugins/fancybox/jquery.fancybox.pack.js"></script>
 
 <!-- core | template script -->
-<script src="{$WEB_ROOT}/assets/js/styles/function.js?{$noCache}"></script>
-<script src="{$WEB_ROOT}/assets/js/tersus-custom.js?{$noCache}"></script>
-<script src="{$WEB_ROOT}/assets/js/styles/style-05.js?{$noCache}"></script>
-<script src="{$WEB_ROOT}/assets/js/styles/contact.js?{$noCache}"></script>
+<script src="{$WEB_ROOT}/assets/js/styles/function.js?{$nocache}"></script>
+<script src="{$WEB_ROOT}/assets/js/tersus-custom.js?{$nocache}"></script>
+<script src="{$WEB_ROOT}/assets/js/styles/style-05.js?{$nocache}"></script>
+<script src="{$WEB_ROOT}/assets/js/styles/contact.js?{$nocache}"></script>
 

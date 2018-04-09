@@ -12,7 +12,7 @@
                         <h5>Nuestro equipo</h5>
                         <p class="description-3">Nuestro equipo esta conformado por mas de 100 colaboradores estrategicamente ubicados de acuerdo a sus fortalezas liderados por profesionales expertos en cada área.
                             Buscamos siempre el desarrollo y la mejora continua, logrando así estar capacitados y actualizados en todo momento.</p>
-                        <h4>Misíon</h4>
+                        <h4>Misión</h4>
                         <p>Mejorar la calidad de vida de cada integrante del equipo, así como de nuestros clientes a través de la constancia, honorabilidad y dedicación en nuestros servicios buscando siempre la excelencia.</p>
                         <h4>Visión</h4>
                         <p>Somos un despacho integral reconocido a nivel internacional que a través de un método probado replica los valores de sus líderes.</p>

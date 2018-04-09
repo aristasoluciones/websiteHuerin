@@ -1,4 +1,12 @@
 @media (max-width:991px){
+    .icon-box-boxed2-about{
+        padding-left: 0px;
+        box-sizing: border-box;
+    }
+    .icon-box.icon-box-boxed2-huerin{
+        padding-left: 0px;
+        box-sizing: border-box;
+    }
     .tersus-about-custom.sistema{
         background: url('../img/style-movil/2018-6-movil.jpg');
         background-size: cover;
@@ -80,7 +88,7 @@
         height:100%;
     }
     .tersus-about-custom.fiscal{
-        background: url('../img/style-movil/2018-4-movil.jpg');
+        background: url('../img/style-movil/2018-12-movil.jpg');
         background-size:cover;
         background-position: center;
         position: absolute;
@@ -95,4 +103,10 @@
         -webkit-transition: all .3s ease;
         height:100%;
     }
+    .home1{
+        background-image:url('../img/style-movil/2018-home1-movil.jpg')
+    }
+    .tersus-navigation-5 .navbar-nav > li > a {
+        padding-top:6px;
+        padding-bottom: 8px;}
 }

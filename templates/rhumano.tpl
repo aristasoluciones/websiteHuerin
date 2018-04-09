@@ -11,17 +11,17 @@
                         <ul class="list-group">
                             <li><a href='javascript:void(0);'  class="list-body" id="audit-1"><i class="fa fa-circle huerin-orange"></i>Reclutamiento de personal.</a>
                                 <div class="circle-detail popup-detail" id="audit-1">
-                                    <div class="content-circle">
+                                    <div class="content-circle" id="audit1">
                                         <h4 class="title-circle-detail">Reclutamiento y selección de personal</h4>
-                                        <p class="body-circle-detail">Mediante una minuciosa búsqueda de talento basada en una entrevista bajo competencias laborales, pruebas técnicas y psicométricas, encontramos al personal indicado para el perfil que estas</p>
+                                        <p class="body-circle-detail">Mediante una minuciosa búsqueda de talento basada en una entrevista bajo competencias laborales, pruebas técnicas y psicométricas, encontramos al personal indicado para el perfil que estas buscando.</p>
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>Desarrollo Organizacional.</a>
+                            <li><a class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>Desarrollo organizacional</a>
                                 <div class="circle-detail popup-detail" id="audit-2">
-                                    <div class="content-circle">
-                                        <h4 class="title-circle-detail">Desarollo Organizacional</h4>
-                                        <p class="body-circle-detail">Consultoria en: Descripciones de puestos, Evaluaciones de desempeño, evaluacion de clima laboral, cursos técnicos y softskills y coaching ejecutivo</p>
+                                    <div class="content-circle" id="audit2">
+                                        <h4 class="title-circle-detail">Desarollo organizacional</h4>
+                                        <p class="body-circle-detail">Consultoria en descripcion de puestos, evaluaciones de desempeño, evaluacion de clima laboral, cursos técnicos y softskills y coaching ejecutivo.</p>
                                     </div>
                                 </div>
                             </li>

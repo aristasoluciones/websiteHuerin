@@ -47,7 +47,7 @@
 	
 	// $miColor = $documento->extraeStilo();
 	$noCache = mt_rand(1,1000);
-    $smarty->assign('noCache',$noCache);
+    $smarty->assign('nocache',$noCache);
 	$smarty->assign('miColor',$miColor);
 
     $_SESSION['Usr']['page'] = $page;

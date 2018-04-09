@@ -187,9 +187,6 @@ jQuery(document).ready(function($) {
             var value = $(this).find('.progress-bar').attr('data-value');
             $(this).find('.progress-bar').html('<span style="height:'+value+';"></span>');
         });
-
-
-
         $(window).scroll(function () {
             if ($(this).scrollTop() > 900) { // on scroll navbar fadeIn
                 $('.intro, .section-sticky').addClass('hidden-visibility');
@@ -197,24 +194,18 @@ jQuery(document).ready(function($) {
                 $('.intro, .section-sticky').removeClass('hidden-visibility');
             }
         });
-
-
         // Background Img
         //-------------------------------------------------------------------------------
         $('.img-bg').each( function(){
             var src = $(this).attr('data-src');
             $(this).attr('style', 'background-image: url(' + src + ');');
         });
-
-
         // CounterUp
         //-------------------------------------------------------------------------------
         $('.counter').counterUp({
             delay: 10,
             time: 1000
         });
-
-
         // Map
         //-------------------------------------------------------------------------------
         // checks if #map div exists
@@ -382,16 +373,25 @@ jQuery(document).ready(function($) {
             $(this).addClass('active');
         });
     });
+
 	$( '.icon-box.icon-box-boxed2-huerin ul > li > a' ).on('click',function () {
         var splitName = this.id.split("-");
-         $('.circle-detail#'+splitName[0]+'-'+splitName[1]).addClass('show-element');
-         var contenido = document.querySelector('.circle-detail#'+splitName[0]+'-'+splitName[1]);
-         $.magnificPopup.open({
-            items:{
-                src:contenido,
-                type:'inline'
-            }
-         });
+
+             $('.circle-detail#'+splitName[0]+'-'+splitName[1]).addClass('show-element');
+             var contenido = document.querySelector('.circle-detail#'+splitName[0]+'-'+splitName[1]);
+             var ele = $('.content-circle#'+splitName[0]+''+splitName[1]).html();
+
+        if($.trim(ele)){
+                 $.magnificPopup.open({
+                     items:{
+                         src:contenido,
+                         type:'inline'
+                     }
+                 });
+         }else{
+            $('.circle-detail#'+splitName[0]+'-'+splitName[1]).removeClass('show-element');
+        }
+
     });
 
     $(window).load(function () {
