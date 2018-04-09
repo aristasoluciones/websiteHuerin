@@ -6457,42 +6457,56 @@ hr {
 .tersus-about-custom{
   background: url('../img/2018-3.jpg');
   background-size: cover;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.rhumano{
   background: url('../img/2018-4.jpg');
   background-size: cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.fiscal{
   background: url('../img/2018-12.jpg');
   background-size: cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.acount{
   background: url('../img/2018-5.jpg');
   background-size: cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.audit{
   background: url('../img/2018-1.jpg');
   background-size: cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.nomina{
   background: url('../img/2018-2.jpg');
   background-size: cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.sistema{
   background: url('../img/2018-6.jpg');
   background-size: cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.job{
@@ -6507,18 +6521,24 @@ hr {
   background: url('../img/2018-7.jpg');
   background-size:cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.admin{
   background: url('../img/2018-8.jpg');
   background-size:cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.contacto{
   background: url('../img/2018-9.jpg');
   background-size:cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height:100%;
 }
 .tersus-about-custom.invertir{
@@ -6527,6 +6547,8 @@ hr {
   -moz-background-size:cover; /*frirefox*/
   -o-background-size:cover; /*frirefox*/
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   -height:100%;
 }
 .icon-box.icon-box-boxed2-left {
@@ -6539,6 +6561,8 @@ hr {
   background: url('../img/2018-1.jpg');
   background-size: cover;
   -webkit-transition: all .3s ease;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
   height: 100vh;
   overflow: hidden;
   transition: all .3s ease;

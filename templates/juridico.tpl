@@ -40,8 +40,7 @@
                             </li>
                             <li><a href='javascript:void(0);' class="list-body" id="juridico-5"><i class="fa fa-circle huerin-orange"></i>Tramites Fiscales</a>
                                 <div class="circle-detail popup-detail" id="juridico-5">
-                                    <div class="content-circle" id="juridico5">s
-
+                                    <div class="content-circle" id="juridico5">
                                     </div>
                                 </div>
                             </li>
