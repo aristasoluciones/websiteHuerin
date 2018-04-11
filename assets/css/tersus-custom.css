@@ -2054,7 +2054,7 @@ hr {
 }
 .navmenu,
 .navbar-offcanvas {
-  width: 300px;
+  width: 165px;
   height: auto;
   border-width: 1px;
   border-style: solid;
@@ -2127,7 +2127,7 @@ hr {
   line-height: 20px;
   padding: 0px 15px;
   margin: 10px 0;
-  height:26px;
+  height:50px;
 }
 .navmenu-brand:hover,
 .navmenu-brand:focus {
@@ -6832,8 +6832,8 @@ hr {
   margin-top:10px;
 }
 .img-movil{
-  width:75px;
-  height: 35px;
+  width:125px;
+  height: 50px;
 }
 .white-popup {
   position: relative;
