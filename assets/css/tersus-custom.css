@@ -1842,6 +1842,12 @@ hr {
   background-color: transparent;
   color:#F38B00;
 }
+.tersus-navigation-5 .navbar-nav > li > a.noEfect:hover,
+.tersus-navigation-5 .navbar-nav > li > a.noEfect:focus {
+  background-color: transparent;
+  font-weight: 600;
+  color: #fff;
+}
 .tersus-navigation-5 .navbar-nav > .active > a,
 .tersus-navigation-5 .navbar-nav > .active > a:hover,
 .tersus-navigation-5 .navbar-nav > .active > a:focus {
@@ -6606,7 +6612,7 @@ hr {
   line-height: 1;
   text-align: left;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   color: #fff;
 }
 .icon-box.icon-box-boxed2-about > .description-3 {
@@ -6669,6 +6675,21 @@ hr {
   transform: scale(1.1);
   font-weight: 600;
   color: #f38b00;
+}
+.icon-box ul > li > a.noEfect:hover, .icon-box .icon, .icon-box ul > li > a.noEfect:focus {
+  display:inline-block;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1);
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1);
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1);
+  transition: all 200ms ease-in;
+  transform: scale(1);
+  list-style: none;
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
 }
 .fa-circle.huerin-orange {
   color: #f38b00;
@@ -6865,4 +6886,12 @@ hr {
 .comillas{
   color: rgba(236, 76, 35, 0);
   font-weight: bold;
+}
+ul.ulInDialog >li{
+  font-family: "Century Gothic",sans-serif;
+  text-align: left;
+  list-style:square ;
+  list-style-position: outside;
+  font-size: 14px;
+  color: #fff;
 }

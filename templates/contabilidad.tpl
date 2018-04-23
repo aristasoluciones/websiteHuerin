@@ -9,7 +9,7 @@
                         <p>Contamos con un equipo de profesionales capacitados para desarrollar estrategias efectivas que llevarán a tu empresa cumplir correctamente con las obligaciones fiscales.</p>
                         <h5>Personas fisicas</h5>
                         <ul class="list-group">
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-1"><i class="fa fa-circle huerin-orange"></i>Declaraciones en ceros</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-1"><i class="fa fa-circle huerin-orange"></i>Declaraciones en ceros.</a>
                                 <div class="circle-detail popup-detail" id="audit-1">
                                     <div class="content-circle" id="audit1">
                                         <h4 class="title-circle-detail">Declaraciones en ceros</h4>
@@ -18,7 +18,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>Sueldos y Salarios o Asimilados a salarios</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>Sueldos y Salarios o Asimilados a salarios.</a>
                                 <div class="circle-detail popup-detail" id="audit-2">
                                     <div class="content-circle" id="audit2">
                                         <h4 class="title-circle-detail">Sueldos y Salarios o Asimilados a salarios</h4>
@@ -26,7 +26,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' href='javascript:void(0);'class="list-body" id="audit-3"><i class="fa fa-circle huerin-orange"></i>Actividad empresarial y Servicios profesionales</a>
+                            <li><a href='javascript:void(0);' href='javascript:void(0);'class="list-body" id="audit-3"><i class="fa fa-circle huerin-orange"></i>Actividad empresarial y Servicios profesionales.</a>
                                 <div class="circle-detail popup-detail" id="audit-3">
                                     <div class="content-circle" id="audit3">
                                         <h4 class="title-circle-detail">Actividad empresarial y Servicios profesionales</h4>
@@ -34,7 +34,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-4"><i class="fa fa-circle huerin-orange"></i>Incorporacion fiscal (RIF)</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-4"><i class="fa fa-circle huerin-orange"></i>Incorporacion fiscal (RIF).</a>
                                 <div class="circle-detail popup-detail" id="audit-4">
                                     <div class="content-circle" id="audit4">
                                         <h4 class="title-circle-detail">Incorporacion fiscal (RIF)</h4>
@@ -42,7 +42,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-5"><i class="fa fa-circle huerin-orange"></i>Arrendamiento de inmuebles</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-5"><i class="fa fa-circle huerin-orange"></i>Arrendamiento de inmuebles.</a>
                                 <div class="circle-detail popup-detail" id="audit-5">
                                     <div class="content-circle" id="audit5">
                                         <h4 class="title-circle-detail">Arrendamiento de inmuebles</h4>
@@ -50,7 +50,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-6"><i class="fa fa-circle huerin-orange"></i>Enajenacion y adquisición de bienes</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-6"><i class="fa fa-circle huerin-orange"></i>Enajenacion y adquisición de bienes.</a>
                                 <div class="circle-detail popup-detail" id="audit-6">
                                     <div class="content-circle" id="audit6">
                                         <h4 class="title-circle-detail">Enajenacion y adquisición de bienes.</h4>
@@ -58,7 +58,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-7"><i class="fa fa-circle huerin-orange"></i>Ingresos por Intereses, premios y dividendos</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-7"><i class="fa fa-circle huerin-orange"></i>Ingresos por Intereses, premios y dividendos.</a>
                                 <div class="circle-detail popup-detail" id="audit-7">
                                     <div class="content-circle" id="audit7" >
                                         <h4 class="title-circle-detail">Ingresos por Intereses, premios y dividendos</h4>
@@ -66,7 +66,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-8"><i class="fa fa-circle huerin-orange"></i>Contabilidad electrónica</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-8"><i class="fa fa-circle huerin-orange"></i>Contabilidad electrónica.</a>
                                 <div class="circle-detail popup-detail" id="audit-8">
                                     <div class="content-circle" id="audit8">
                                         <h4 class="title-circle-detail">Contabilidad electrónica</h4>
@@ -74,7 +74,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-9"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y Declaraciones informativas</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-9"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y Declaraciones informativas.</a>
                                 <div class="circle-detail popup-detail" id="audit-9">
                                     <div class="content-circle" id="audit9">
                                         <h4 class="title-circle-detail">Declaraciones anuales y Declaraciones informativas</h4>
@@ -85,7 +85,7 @@
                         </ul>
                         <h5>Personas morales</h5>
                         <ul class="list-group">
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-10"><i class="fa fa-circle huerin-orange"></i>Declaraciones en cero</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-10"><i class="fa fa-circle huerin-orange"></i>Declaraciones en cero.</a>
                                 <div class="circle-detail popup-detail" id="audit-10">
                                     <div class="content-circle" id="audit10">
                                         <h4 class="title-circle-detail">Declaraciones en cero</h4>
@@ -93,7 +93,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-11"><i class="fa fa-circle huerin-orange"></i>General de ley</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-11"><i class="fa fa-circle huerin-orange"></i>General de ley.</a>
                                 <div class="circle-detail popup-detail" id="audit-11">
                                     <div class="content-circle" id="audit11">
                                         <h4 class="title-circle-detail">General de ley</h4>
@@ -101,7 +101,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-12"><i class="fa fa-circle huerin-orange"></i>Sociedades y Asociaciones civiles</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-12"><i class="fa fa-circle huerin-orange"></i>Sociedades y Asociaciones civiles.</a>
                                 <div class="circle-detail popup-detail" id="audit-12">
                                     <div class="content-circle" id="audit12">
                                         <h4 class="title-circle-detail">Sociedades y Asociaciones civiles</h4>
@@ -109,7 +109,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-13"><i class="fa fa-circle huerin-orange"></i>Asesoría contable y fiscal</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-13"><i class="fa fa-circle huerin-orange"></i>Asesoría contable y fiscal.</a>
                                 <div class="circle-detail popup-detail" id="audit-13">
                                     <div class="content-circle" id="audit13">
                                         <h4 class="title-circle-detail">Asesoría contable y fiscal</h4>
@@ -117,7 +117,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-14"><i class="fa fa-circle huerin-orange"></i>Contabilidad electrónica</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-14"><i class="fa fa-circle huerin-orange"></i>Contabilidad electrónica.</a>
                                 <div class="circle-detail popup-detail" id="audit-14">
                                     <div class="content-circle" id="audit14">
                                         <h4 class="title-circle-detail">Contabilidad electrónica</h4>
@@ -125,7 +125,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-15"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y Declaraciones informativas</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-15"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y Declaraciones informativas.</a>
                                 <div class="circle-detail popup-detail" id="audit-15">
                                     <div class="content-circle" id="audit15">
                                         <h4 class="title-circle-detail">Declaraciones anuales y Declaraciones informativas</h4>
@@ -134,23 +134,47 @@
                                 </div>
                             </li>
                         </ul>
-                        <h5>Tramites y gestoria</h5>
+                        <h5>Tramites de gestoría</h5>
                         <ul class="list-group">
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-16"><i class="fa fa-circle huerin-orange"></i>Cambio de domicilio</a>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-16"><i class="fa fa-circle huerin-orange"></i>Cambio de domicilio, apertura o cierre de establecimiento o sucursales.</a>
                                 <div class="circle-detail popup-detail" id="audit-16">
                                     <div class="content-circle" id="audit16">
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-17"><i class="fa fa-circle huerin-orange"></i>Tramite de las claves obligatorias de las diferentes autoridades</a>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-17"><i class="fa fa-circle huerin-orange"></i>Trámite de las claves obligatorias de las diferentes autoridades.</a>
                                 <div class="circle-detail spopup-detail" id="audit-17">
                                     <div class="content-circle" id="audit17">
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-18"><i class="fa fa-circle huerin-orange"></i>Aumento o disminucion de obligaciones</a>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-18"><i class="fa fa-circle huerin-orange"></i>Aumento o disminución de obligaciones.</a>
                                 <div class="circle-detail popup-detail" id="audit-18">
                                     <div class="content-circle" id="audit18">
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-19"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de comprobantes y declaraciones.</a>
+                                <div class="circle-detail popup-detail" id="audit-19">
+                                    <div class="content-circle" id="audit19">
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-20"><i class="fa fa-circle huerin-orange"></i>Revisión a requerimientos de las diferentes autoridades.</a>
+                                <div class="circle-detail popup-detail" id="audit-20">
+                                    <div class="content-circle" id="audit20">
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-21"><i class="fa fa-circle huerin-orange"></i>Revisión a auditorias de las diferentes autoridades.</a>
+                                <div class="circle-detail popup-detail" id="audit-21">
+                                    <div class="content-circle" id="audit21">
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-22"><i class="fa fa-circle huerin-orange"></i>Contestación a consultas relativas a la operación de la empresa en el área contable fiscal o financiera.</a>
+                                <div class="circle-detail popup-detail" id="audit-22">
+                                    <div class="content-circle" id="audit22">
                                     </div>
                                 </div>
                             </li>

@@ -9,7 +9,7 @@
                         <p>Contamos con el equipo especializado para brindarte un servicio de calidad de expertos en Desarrollo Organizacional  de empresas</p>
                         <h5>Servicios</h5>
                         <ul class="list-group">
-                            <li><a href='javascript:void(0);'  class="list-body" id="audit-1"><i class="fa fa-circle huerin-orange"></i>Reclutamiento de personal</a>
+                            <li><a href='javascript:void(0);'  class="list-body" id="audit-1"><i class="fa fa-circle huerin-orange"></i>Reclutamiento de personal.</a>
                                 <div class="circle-detail popup-detail" id="audit-1">
                                     <div class="content-circle" id="audit1">
                                         <h4 class="title-circle-detail">Reclutamiento y selección de personal</h4>
@@ -17,7 +17,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>Desarrollo organizacional</a>
+                            <li><a class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>Desarrollo organizacional.</a>
                                 <div class="circle-detail popup-detail" id="audit-2">
                                     <div class="content-circle" id="audit2">
                                         <h4 class="title-circle-detail">Desarollo organizacional</h4>

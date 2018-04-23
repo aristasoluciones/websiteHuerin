@@ -26,7 +26,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-3"><i class="fa fa-circle huerin-orange"></i>Dictamen fiscal SIPRED</a>
+                            <li><a class="list-body" id="auditoria-3"><i class="fa fa-circle huerin-orange"></i>Dictamen fiscal SIPRED.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-3">
                                     <div class="content-circle" id="auditoria3">
                                         <h4 class="title-circle-detail">Dictamen fiscal SIPRED</h4>
@@ -69,41 +69,41 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-8"><i class="fa fa-circle huerin-orange"></i>Tramite de las claves obligatorias de las diferentes autoridades.</a>
+                            <li><a class="list-body noEfect" id="auditoria-8"><i class="fa fa-circle huerin-orange"></i>Tramite de las claves obligatorias de las diferentes autoridades.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-8">
                                     <div class="content-circle" id="auditoria8">
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-9"><i class="fa fa-circle huerin-orange"></i>Aumento o disminución de obligaciones.</a>
+                            <li><a class="list-body noEfect" id="auditoria-9"><i class="fa fa-circle huerin-orange"></i>Aumento o disminución de obligaciones.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-9">
                                     <div class="content-circle" id="auditoria9">
 
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-10"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de comprobantes y declaraciones.</a>
+                            <li><a class="list-body noEfect" id="auditoria-10"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de comprobantes y declaraciones.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-10">
                                     <div class="content-circle" id="auditoria10">
 
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-11"><i class="fa fa-circle huerin-orange"></i>Revisión a requerimientos de las diferentes autoridades.</a>
+                            <li><a class="list-body noEfect" id="auditoria-11"><i class="fa fa-circle huerin-orange"></i>Revisión a requerimientos de las diferentes autoridades.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-11">
                                     <div class="content-circle" id="auditoria11">
 
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-12"><i class="fa fa-circle huerin-orange"></i>Revisión a auditorias de las diferentes autoridades.</a>
+                            <li><a class="list-body noEfect" id="auditoria-12"><i class="fa fa-circle huerin-orange"></i>Revisión a auditorias de las diferentes autoridades.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-12">
                                     <div class="content-circle" id="auditoria12">
 
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-13"><i class="fa fa-circle huerin-orange"></i>Contestación a consultas relativas a la operación de la empresa en el área contable fiscal o financiera.</a>
+                            <li><a class="list-body noEfect" id="auditoria-13"><i class="fa fa-circle huerin-orange"></i>Contestación a consultas relativas a la operación de la empresa en el área contable fiscal o financiera.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-13">
                                     <div class="content-circle" id="auditoria13">
 

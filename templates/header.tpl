@@ -12,8 +12,8 @@
             <div id="navigation-1-collapse" class="navbar-offcanvas offcanvas navbar-right canvas-push">
                 <a class="navmenu-brand" href="{$WEB_ROOT}"><img class="img-movil" src="{$WEB_ROOT}/assets/img/logos/logo.svg" alt="B&H"  /></a>
                 <ul class="nav navbar-nav">
-                    <li><a href="{$WEB_ROOT}">INICIO</a></li>
-                    <li><a href="{$WEB_ROOT}/nosotros">Nosotros</a></li>
+                    <li><a href="{$WEB_ROOT}" class="noEfect">INICIO</a></li>
+                    <li><a href="{$WEB_ROOT}/nosotros" class="noEfect">Nosotros</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Area de servicio <span class="caret"></span></a>
                         <ul class="dropdown-menu">
@@ -27,9 +27,9 @@
                             <li><a href="{$WEB_ROOT}/sistema"><i class="fa fa-circle huerin-menu"></i>Sistemas</a></li>
                         </ul>
                     </li>
-                    <li><a href="{$WEB_ROOT}/imexico">Invertir en México</a></li>
-                    <li><a href="{$WEB_ROOT}/job">Bolsa de trabajo</a></li>
-                    <li><a href="{$WEB_ROOT}/contacto">Contacto</a></li>
+                    <li><a href="{$WEB_ROOT}/imexico" class="noEfect">Invertir en México</a></li>
+                    <li><a href="{$WEB_ROOT}/job" class="noEfect">Bolsa de trabajo</a></li>
+                    <li><a href="{$WEB_ROOT}/contacto" class="noEfect">Contacto</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
