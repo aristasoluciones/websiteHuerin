@@ -472,6 +472,9 @@ hr {
   bottom: 0;
   z-index: -1;
   background-size: cover;
+  filter:brightness(40%);
+  -webkit-filter:brightness(40%);
+  -moz-filter:brightness(40%)
 }
 .overlay {
   position: relative;

@@ -21,7 +21,6 @@
                             <li><a href="{$WEB_ROOT}/nomina"><i class="fa fa-circle huerin-menu"></i>Nóminas</a></li>
                             <li><a href="{$WEB_ROOT}/auditoria"><i class="fa fa-circle huerin-menu"></i>Auditorias</a></li>
                             <li><a href="{$WEB_ROOT}/administracion"><i class="fa fa-circle huerin-menu"></i>Administracion</a></li>
-                            <li><a href="{$WEB_ROOT}/fiscal"><i class="fa fa-circle huerin-menu"></i>Fiscal</a></li>
                             <li><a href="{$WEB_ROOT}/juridico"><i class="fa fa-circle huerin-menu"></i>Jurídico</a></li>
                             <li><a href="{$WEB_ROOT}/rhumano"><i class="fa fa-circle huerin-menu"></i>Recursos humanos</a></li>
                             <li><a href="{$WEB_ROOT}/sistema"><i class="fa fa-circle huerin-menu"></i>Sistemas</a></li>
