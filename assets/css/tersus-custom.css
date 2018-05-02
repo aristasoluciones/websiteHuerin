@@ -472,9 +472,6 @@ hr {
   bottom: 0;
   z-index: -1;
   background-size: cover;
-  filter:brightness(40%);
-  -webkit-filter:brightness(40%);
-  -moz-filter:brightness(40%)
 }
 .overlay {
   position: relative;
@@ -6470,6 +6467,16 @@ hr {
   -o-transition: all .3s ease;
   height:100%;
 }
+.tersus-about-custom.about{
+  background: url('../img/2018-3.jpg');
+  background-size: cover;
+  -moz-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  height:100%;
+  filter:brightness(90%);
+  -webkit-filter:brightness(90%);
+  -moz-filter:brightness(90%)
+}
 .tersus-about-custom.rhumano{
   background: url('../img/2018-4.jpg');
   background-size: cover;
@@ -6477,6 +6484,9 @@ hr {
   -moz-transition: all .3s ease;
   -o-transition: all .3s ease;
   height:100%;
+  filter:brightness(75%);
+  -webkit-filter:brightness(75%);
+  -moz-filter:brightness(75%)
 }
 .tersus-about-custom.fiscal{
   background: url('../img/2018-12.jpg');
@@ -6493,6 +6503,9 @@ hr {
   -moz-transition: all .3s ease;
   -o-transition: all .3s ease;
   height:100%;
+  filter:brightness(80%);
+  -webkit-filter:brightness(80%);
+  -moz-filter:brightness(80%)
 }
 .tersus-about-custom.audit{
   background: url('../img/2018-1.jpg');
@@ -6501,6 +6514,9 @@ hr {
   -moz-transition: all .3s ease;
   -o-transition: all .3s ease;
   height:100%;
+  filter:brightness(80%);
+  -webkit-filter:brightness(80%);
+  -moz-filter:brightness(80%)
 }
 .tersus-about-custom.nomina{
   background: url('../img/2018-2.jpg');
@@ -6509,6 +6525,9 @@ hr {
   -moz-transition: all .3s ease;
   -o-transition: all .3s ease;
   height:100%;
+  filter:brightness(80%);
+  -webkit-filter:brightness(80%);
+  -moz-filter:brightness(80%)
 }
 .tersus-about-custom.sistema{
   background: url('../img/2018-6.jpg');
@@ -6517,6 +6536,9 @@ hr {
   -moz-transition: all .3s ease;
   -o-transition: all .3s ease;
   height:100%;
+  filter:brightness(80%);
+  -webkit-filter:brightness(80%);
+  -moz-filter:brightness(80%)
 }
 .tersus-about-custom.job{
   background: url('../img/2018-11.jpg');
@@ -6533,6 +6555,9 @@ hr {
   -moz-transition: all .3s ease;
   -o-transition: all .3s ease;
   height:100%;
+  filter:brightness(80%);
+  -webkit-filter:brightness(80%);
+  -moz-filter:brightness(80%)
 }
 .tersus-about-custom.admin{
   background: url('../img/2018-8.jpg');
@@ -6541,6 +6566,9 @@ hr {
   -moz-transition: all .3s ease;
   -o-transition: all .3s ease;
   height:100%;
+  filter:brightness(80%);
+  -webkit-filter:brightness(80%);
+  -moz-filter:brightness(80%)
 }
 .tersus-about-custom.contacto{
   background: url('../img/2018-9.jpg');
