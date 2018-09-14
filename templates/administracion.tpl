@@ -50,7 +50,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-8"><i class="fa fa-circle huerin-orange"></i>Atencíon y seguimiento de requerimientos y multas, auditorias y revisión de documentos fiscales.</a>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-8"><i class="fa fa-circle huerin-orange"></i>Atención y seguimiento de requerimientos y multas, auditorías y revisión de documentos fiscales.</a>
                                 <div class="circle-detail popup-detail" id="audit-8">
                                     <div class="content-circle" id="audit8">
                                     </div>
@@ -71,7 +71,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-11"><i class="fa fa-circle huerin-orange"></i>Pago de proveedores.</a>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-11"><i class="fa fa-circle huerin-orange"></i>Pago a proveedores.</a>
                                 <div class="circle-detail popup-detail" id="audit-11">
                                     <div class="content-circle" id="audit11">
                                     </div>

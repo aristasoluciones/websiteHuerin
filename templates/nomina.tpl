@@ -5,23 +5,23 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="icon-box icon-box-boxed2-huerin">
-                        <h4>Nómina</h4>
-                        <p>Contamos con un equipo de profesionales expertos en la realización del cálculo de Nóminas para empresas de diferentes giros.</p>
+                        <h4>Nóminas</h4>
+                        <p>Contamos con un equipo de profesionales expertos en la realización del cálculo de nóminas para empresas de diferentes giros.</p>
                         <h5>Servicios</h5>
                         <ul class="list-group">
                             <li><a href='javascript:void(0);' class="list-body" id="children-1"><i class="fa fa-circle huerin-orange"></i>Nóminas.</a>
                                 <div class="circle-detail popup-detail" id="children-1">
                                     <div class="content-circle" id="children1">
                                         <h4 class="title-circle-detail">Nóminas</h4>
-                                        <p class="body-circle-detail">Realizamos el cálculo de tus nóminas semanales, quincenales y mensuales si como la emisión de CFDI, calculo de finiquitos, liquidaciones, calculo de PTU y cálculo de aguinaldo.</p>
+                                        <p class="body-circle-detail">Realizamos el cálculo de tus nóminas semanales, quincenales y mensuales asi como la emisión de CFDI, cálculo de finiquitos, liquidaciones, cálculo de PTU y cálculo de aguinaldo.</p>
                                     </div>
                                 </div>
                             </li>
                             <li><a href='javascript:void(0);' class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>IMMS.</a>
                                 <div class="circle-detail popup-detail" id="audit-2">
                                     <div class="content-circle" id="audit2">
-                                        <h4 class="title-circle-detail">IMMS</h4>
-                                        <p class="body-circle-detail">Te ayudamos con el pago del Seguro Social y atendemos las notificaciones del mismo.</p>
+                                        <h4 class="title-circle-detail">IMSS</h4>
+                                        <p class="body-circle-detail">Te ayudamos con el pago del seguro social y atendemos las notificaciones del mismo.</p>
                                     </div>
                                 </div>
                             </li>
@@ -29,11 +29,11 @@
                                 <div class="circle-detail popup-detail" id="audit-3">
                                     <div class="content-circle" id="audit3">
                                         <h4 class="title-circle-detail">3%</h4>
-                                        <p class="body-circle-detail">Realizamos el cálculo y pago de impuestos sobre nómina correspondiente a la ciudad de México y a los distintos Estados de la Republica Mexicana.</p>
+                                        <p class="body-circle-detail">Realizamos el cálculo y pago de impuestos sobre nómina correspondiente a la Ciudad de México y a los distintos estados de la República Mexicana.</p>
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-4"><i class="fa fa-circle huerin-orange"></i>INFONACOT.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-4"><i class="fa fa-circle huerin-orange"></i>INFONACOT</a>
                                 <div class="circle-detail popup-detail" id="audit-4">
                                     <div class="content-circle" id="audit4">
                                         <h4 class="title-circle-detail">INFONACOT</h4>
@@ -49,11 +49,11 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-6"><i class="fa fa-circle huerin-orange"></i>Pension o jubilación.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-6"><i class="fa fa-circle huerin-orange"></i>Pensión o jubilación.</a>
                                 <div class="circle-detail popup-detail" id="audit-6">
                                     <div class="content-circle" id="audit6">
                                         <h4 class="title-circle-detail">Pensión o jubilación</h4>
-                                        <p class="body-circle-detail">Te asesoramos con el tramite para tu pensión o jubilación.</p>
+                                        <p class="body-circle-detail">Te asesoramos con el trámite para tu pensión o jubilación.</p>
                                     </div>
                                 </div>
                             </li>
@@ -64,13 +64,14 @@
                                 <div class="circle-detail popup-detail" id="audit-7">
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-8"><i class="fa fa-circle huerin-orange"></i>Tramite de las claves obligatorias de las diferentes autoridades.</a>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-8"><i class="fa fa-circle huerin-orange"></i>Trámite de las claves obligatorias de las diferentes autoridades.</a>
                                 <div class="circle-detail popup-detail" id="audit-8">
                                 </div>
                             </li>
                             <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-9"><i class="fa fa-circle huerin-orange"></i>Aumento o disminución de obligaciones.</a>
                                 <div class="circle-detail popup-detail" id="audit-9">
                                 </div>
+
                             </li>
                             <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-10"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de comprobantes y declaraciones.</a>
                                 <div class="circle-detail popup-detail" id="audit-10">
@@ -84,7 +85,7 @@
                                <div class="circle-detail popup-detail" id="audit-12">
                                </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-13"><i class="fa fa-circle huerin-orange"></i>Contestación a consultas relativas a la operación de la empresa en el área contable fiscal o financiera.</a>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-13"><i class="fa fa-circle huerin-orange"></i>Consultas acerca de la operación de la empresa en el área contable, fiscal o financiera.</a>
                                <div class="circle-detail popup-detail" id="audit-13">
                                 </div>
                             </li>

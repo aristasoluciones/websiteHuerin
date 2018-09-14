@@ -6,39 +6,38 @@
                 <div class="col-md-12">
                     <div class="icon-box icon-box-boxed2-huerin">
                         <h4>Contabilidad</h4>
-                        <p>Contamos con un equipo de profesionales capacitados para desarrollar estrategias efectivas que llevarán a tu empresa cumplir correctamente con las obligaciones fiscales.</p>
-                        <h5>Personas fisicas</h5>
+                        <p>Contamos con un equipo de profesionales capacitados para desarrollar estrategias efectivas que llevarán a tu empresa a cumplir correctamente con las obligaciones fiscales.</p>
+                        <h5>Personas físicas</h5>
                         <ul class="list-group">
                             <li><a href='javascript:void(0);' class="list-body" id="audit-1"><i class="fa fa-circle huerin-orange"></i>Declaraciones en ceros.</a>
                                 <div class="circle-detail popup-detail" id="audit-1">
                                     <div class="content-circle" id="audit1">
                                         <h4 class="title-circle-detail">Declaraciones en ceros</h4>
-                                        <p class="body-circle-detail">Si eres persona Física o Moral y no tienes operaciones, pero aun así tienes que cumplir con tus obligaciones fiscales.
-                                        <center><b>¡Este servicio es para ti!</b></center>
+                                        <p class="body-circle-detail">Si eres persona física o moral y no tienes operaciones, pero aun así tienes que cumplir con tus obligaciones fiscales.
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>Sueldos y Salarios o Asimilados a salarios.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-2"><i class="fa fa-circle huerin-orange"></i>Sueldos y salarios o asimilados a salarios.</a>
                                 <div class="circle-detail popup-detail" id="audit-2">
                                     <div class="content-circle" id="audit2">
-                                        <h4 class="title-circle-detail">Sueldos y Salarios o Asimilados a salarios</h4>
+                                        <h4 class="title-circle-detail">Sueldos y salarios o asimilados a salarios</h4>
                                         <p  class="body-circle-detail">Si eres una persona física que obtiene sus ingresos a cambio de un servicio personal subordinado, donde la empresa es la encargada de retener los impuestos.</p>
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' href='javascript:void(0);'class="list-body" id="audit-3"><i class="fa fa-circle huerin-orange"></i>Actividad empresarial y Servicios profesionales.</a>
+                            <li><a href='javascript:void(0);' href='javascript:void(0);'class="list-body" id="audit-3"><i class="fa fa-circle huerin-orange"></i>Actividad empresarial y servicios profesionales.</a>
                                 <div class="circle-detail popup-detail" id="audit-3">
                                     <div class="content-circle" id="audit3">
-                                        <h4 class="title-circle-detail">Actividad empresarial y Servicios profesionales</h4>
-                                        <p class="body-circle-detail">Si eres persona física y tienes ingresos por tus servicios profesionales como un abogado, doctor etc. o si tienes algún negocio mercantil a titulo personal.</p>
+                                        <h4 class="title-circle-detail">Actividad empresarial y servicios profesionales</h4>
+                                        <p class="body-circle-detail">Si eres persona física y tienes ingresos por tus servicios profesionales como un abogado, doctor etc. o si tienes algún negocio mercantil a título personal.</p>
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-4"><i class="fa fa-circle huerin-orange"></i>Incorporacion fiscal (RIF).</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-4"><i class="fa fa-circle huerin-orange"></i>Incorporación fiscal (RIF).</a>
                                 <div class="circle-detail popup-detail" id="audit-4">
                                     <div class="content-circle" id="audit4">
-                                        <h4 class="title-circle-detail">Incorporacion fiscal (RIF)</h4>
-                                        <p class="body-circle-detail">Si eres una persona física que tiene un pequeño negocio mercantil como una tienda , farmacia, tintorería,etc.</p>
+                                        <h4 class="title-circle-detail">Incorporación fiscal (RIF)</h4>
+                                        <p class="body-circle-detail">Si eres una persona física que tiene un pequeño negocio mercantil como una tienda , farmacia, tintorería, etc.</p>
                                     </div>
                                 </div>
                             </li>
@@ -50,18 +49,18 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-6"><i class="fa fa-circle huerin-orange"></i>Enajenacion y adquisición de bienes.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-6"><i class="fa fa-circle huerin-orange"></i>Enajenación y adquisición de bienes.</a>
                                 <div class="circle-detail popup-detail" id="audit-6">
                                     <div class="content-circle" id="audit6">
-                                        <h4 class="title-circle-detail">Enajenacion y adquisición de bienes.</h4>
+                                        <h4 class="title-circle-detail">Enajenación y adquisición de bienes.</h4>
                                         <p class="body-circle-detail">Vendiste o adquiriste algún inmueble también tienes que declarar tus obligaciones fiscales y pagar tus impuestos.</p>
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-7"><i class="fa fa-circle huerin-orange"></i>Ingresos por Intereses, premios y dividendos.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-7"><i class="fa fa-circle huerin-orange"></i>Ingresos por intereses, premios y dividendos.</a>
                                 <div class="circle-detail popup-detail" id="audit-7">
                                     <div class="content-circle" id="audit7" >
-                                        <h4 class="title-circle-detail">Ingresos por Intereses, premios y dividendos</h4>
+                                        <h4 class="title-circle-detail">Ingresos por intereses, premios y dividendos</h4>
                                         <p class="body-circle-detail">Recibiste alguno de estos ingresos también tienes que declarar tus obligaciones fiscales y pagar tus impuestos.</p>
                                     </div>
                                 </div>
@@ -74,10 +73,10 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-9"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y Declaraciones informativas.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-9"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y declaraciones informativas.</a>
                                 <div class="circle-detail popup-detail" id="audit-9">
                                     <div class="content-circle" id="audit9">
-                                        <h4 class="title-circle-detail">Declaraciones anuales y Declaraciones informativas</h4>
+                                        <h4 class="title-circle-detail">Declaraciones anuales y declaraciones informativas</h4>
                                         <p class="body-circle-detail">Si eres persona física y necesitas cumplir con tus obligaciones anuales.</p>
                                     </div>
                                 </div>
@@ -89,7 +88,7 @@
                                 <div class="circle-detail popup-detail" id="audit-10">
                                     <div class="content-circle" id="audit10">
                                         <h4 class="title-circle-detail">Declaraciones en cero</h4>
-                                        <p class="body-circle-detail">Si eres una Persona Moral que no tiene operaciones, pero aun así tienes que cumplir con tus obligaciones fiscales.</p>
+                                        <p class="body-circle-detail">Si eres una persona moral que no tiene operaciones, pero aun así tienes que cumplir con tus obligaciones fiscales.</p>
                                     </div>
                                 </div>
                             </li>
@@ -101,10 +100,10 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-12"><i class="fa fa-circle huerin-orange"></i>Sociedades y Asociaciones civiles.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-12"><i class="fa fa-circle huerin-orange"></i>Sociedades y asociaciones civiles.</a>
                                 <div class="circle-detail popup-detail" id="audit-12">
                                     <div class="content-circle" id="audit12">
-                                        <h4 class="title-circle-detail">Sociedades y Asociaciones civiles</h4>
+                                        <h4 class="title-circle-detail">Sociedades y asociaciones civiles</h4>
                                         <p class="body-circle-detail">Si eres una sociedad o asociación civil legalmente constituida necesitas cumplir con tus obligaciones fiscales.</p>
                                     </div>
                                 </div>
@@ -113,7 +112,7 @@
                                 <div class="circle-detail popup-detail" id="audit-13">
                                     <div class="content-circle" id="audit13">
                                         <h4 class="title-circle-detail">Asesoría contable y fiscal</h4>
-                                        <p class="body-circle-detail">Ayudamos a todos tipos de contribuyentes a cumplir correctamente con sus obligaciones contables y fiscales.</p>
+                                        <p class="body-circle-detail">Ayudamos a todo tipo de contribuyentes a cumplir correctamente con sus obligaciones contables y fiscales.</p>
                                     </div>
                                 </div>
                             </li>
@@ -125,10 +124,10 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-15"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y Declaraciones informativas.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-15"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y declaraciones informativas.</a>
                                 <div class="circle-detail popup-detail" id="audit-15">
                                     <div class="content-circle" id="audit15">
-                                        <h4 class="title-circle-detail">Declaraciones anuales y Declaraciones informativas</h4>
+                                        <h4 class="title-circle-detail">Declaraciones anuales y declaraciones informativas</h4>
                                         <p class="body-circle-detail"> Si eres persona moral y necesitas cumplir con tus obligaciones anuales.</p>
                                     </div>
                                 </div>
@@ -172,7 +171,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-22"><i class="fa fa-circle huerin-orange"></i>Contestación a consultas relativas a la operación de la empresa en el área contable fiscal o financiera.</a>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-22"><i class="fa fa-circle huerin-orange"></i>Consultas acerca de la operación de la empresa en el área contable, fiscal o financiera.</a>
                                 <div class="circle-detail popup-detail" id="audit-22">
                                     <div class="content-circle" id="audit22">
                                     </div>

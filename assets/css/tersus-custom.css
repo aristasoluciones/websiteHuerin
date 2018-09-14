@@ -6635,6 +6635,22 @@ hr {
   width: max-content; /* Chrome */
 
 }
+.icon-box.icon-box-boxed2-about h5 {
+  text-transform: uppercase;
+  font-size:14px;
+  margin-bottom: 14px;
+  font-weight: bold;
+  margin-top: 20px;
+  line-height: 1;
+  text-align: left;
+  color: #fff;
+  border-bottom: 2px solid #f38b00 ;
+  padding-bottom: 3px;
+  width: intrinsic;           /* Safari/WebKit uses a non-standard name */
+  width: -moz-max-content;    /* Firefox/Gecko */
+  width: max-content; /* Chrome */
+
+}
 
 .icon-box .icon, .icon-box h5 {
   text-transform: uppercase;
@@ -6654,11 +6670,11 @@ hr {
   color: #fff;
 }
 .icon-box.icon-box-boxed2-huerin > .description-center {
-  text-align: center;
+  text-align: left;
   font-size: 16px;
   font-weight:400;
   line-height:1.5;
-  margin-left: 20px;
+  margin-left: 0px;
   color: #fff;
 }
 .icon-box .icon, .icon-box p {
@@ -6672,9 +6688,7 @@ hr {
   margin-bottom: 60px;
 }
 .icon-box ul {
-  margin-left: 25px;
   line-height: 30px;
-  margin-left: 32px;
   text-align: justify;
 }
 .icon-box ul >li a{
@@ -6696,6 +6710,7 @@ hr {
   list-style: none;
 }
 .icon-box ul > li > a:hover, .icon-box .icon, .icon-box ul > li > a:focus {
+  cursor:alias;
   -webkit-transition: all 200ms ease-in;
   -webkit-transform: scale(1.1);
   -ms-transition: all 200ms ease-in;
@@ -6708,6 +6723,7 @@ hr {
   color: #f38b00;
 }
 .icon-box ul > li > a.noEfect:hover, .icon-box .icon, .icon-box ul > li > a.noEfect:focus {
+  cursor:default;
   display:inline-block;
   -webkit-transition: all 200ms ease-in;
   -webkit-transform: scale(1);
@@ -6716,15 +6732,15 @@ hr {
   -moz-transition: all 200ms ease-in;
   -moz-transform: scale(1);
   transition: all 200ms ease-in;
+  text-decoration: none;
   transform: scale(1);
   list-style: none;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 400;
   color: #fff;
 }
 .fa-circle.huerin-orange {
   color: #f38b00;
-  margin-left: 10px;
   padding-right: 6px;
   font-size: 9px;
 }
@@ -6925,4 +6941,14 @@ ul.ulInDialog >li{
   list-style-position: outside;
   font-size: 14px;
   color: #fff;
+}
+.div-mapmexico{
+  padding-top: 60px;
+  padding-left: 40px;
+  max-width: 500px;
+  height: auto;
+}
+.mapmexico{
+  width:100%;
+  height: auto;
 }

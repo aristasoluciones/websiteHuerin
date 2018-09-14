@@ -31,6 +31,7 @@
       }
       function SendCorreo(){
           global $send;
+          $correos = array();
           $body = "<pre> Datos de contacto";
 
           if($this->Util()->PrintErrors()){
@@ -51,7 +52,7 @@
                   $attachment="";
                   $name_file = "";
                   $subject ="CONTACTO POR INTERNET";
-
+                  $correos =  unserialize(RECEPTORCN);
               break;
               case 'whitcv':
                   $attachment="";
@@ -67,9 +68,10 @@
                   }
 
                   $subject ="CONTACTO VACANTE POR INTERNET";
+                  $correos =  unserialize(RECEPTORCV);
                break;
           }
-         if($send->PrepareMultiple($subject,$body,unserialize(RECEPTOR),'ADMIN WEB',$attachment,$name_file,'','',$this->email,$this->name)){
+         if($send->PrepareMultiple($subject,$body,$correos,'ADMIN WEB',$attachment,$name_file,'','',$this->email,$this->name)){
              $this->Util()->setError(0,'complete',"Correo enviado correctamente");
              $this->Util()->PrintErrors();
              return true;

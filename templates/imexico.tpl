@@ -6,17 +6,11 @@
                 <div class="col-md-12">
                     <div class="icon-box icon-box-boxed2-huerin">
                         <h4>Invertir en méxico</h4>
-                        <p>Contamos con el equipo especializado para brindarte un servicio de calidad de expertos en Desarrollo Organizacional  de empresas</p>
-                        <h5>Servicios</h5>
-                        <ul class="list-group">
-                            <li><a class="list-body noEfect" id="audit10"><i class="fa fa-circle huerin-orange"></i>Reclutamiento de personal.</a></li>
-                            <li><a class="list-body noEfect" id="audit11"><i class="fa fa-circle huerin-orange"></i>Desarrollo organizacional.</a></li>
-                            <li><a class="list-body noEfect" id="audit10"><i class="fa fa-circle huerin-orange"></i>Consultoria en descripciones de puestos.</a></li>
-                            <li><a class="list-body noEfect" id="audit10"><i class="fa fa-circle huerin-orange"></i>Evaluaciones de desempeño.</a></li>
-                            <li><a class="list-body noEfect" id="audit10"><i class="fa fa-circle huerin-orange"></i>Evaluación de clima laboral.</a></li>
-                            <li><a class="list-body noEfect" id="audit10"><i class="fa fa-circle huerin-orange"></i>Cursos técnicos y softskills.</a></li>
-                            <li><a class="list-body noEfect" id="audit10"><i class="fa fa-circle huerin-orange"></i>Coaching ejecutivo.</a></li>
-                        </ul>
+                        <p>Recientemente y a raíz de los cambios legales y reglamentarios en los sectores de telecomunicaciones, transporte y sectores energéticos, etc; México está fortaleciendo su economía y se ha convertido en una economía abierta y diversa para las inversiones, lo cual permite que empresas de diferentes latitudes lo vean como un país de oportunidades para hacer negocios.</p><br>
+                        <p>BRAUN HUERIN como firma ofrece ayudarle a concretar sus negocios en México a través de su amplia gama de servicios.</p><br>
+                        <div class="div-mapmexico">
+                            <img  class="mapmexico" src="{$WEB_ROOT}/assets/img/mapmexico.png">
+                        </div>
                     </div>
                 </div>
             </div>

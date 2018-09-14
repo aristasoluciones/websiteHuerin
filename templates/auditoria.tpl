@@ -5,8 +5,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="icon-box icon-box-boxed2-huerin">
-                        <h4>AUDITORIA</h4>
-                        <p>Contamos con los profesionales idoneos para analizar los resultados del registro de operaciones efectuadas con el fin de comprobar que las disposiciones
+                        <h4>AUDITORÍA</h4>
+                        <p>Contamos con los profesionales idóneos para analizar los resultados del registro de operaciones efectuadas con el fin de comprobar que las disposiciones
                             hayan sido cumplidas de acuerdo a las normas.</p>
                         <h5>Servicios</h5>
                         <ul class="list-group">
@@ -18,11 +18,11 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-2"><i class="fa fa-circle huerin-orange"></i>Dictamen de enajenacion de acciones.</a>
+                            <li><a class="list-body" id="auditoria-2"><i class="fa fa-circle huerin-orange"></i>Dictamen de enajenación de acciones.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-2">
                                     <div class="content-circle" id="auditoria2">
-                                        <h4 class="title-circle-detail">Dictamen de enajenacion de acciones</h4>
-                                        <p class="body-circle-detail">Este es un servicio para las personas físicas que venden acciones donde delimita el valor correcto de las acciones además del correcto calculo de impuestos en dicha venta.</p>
+                                        <h4 class="title-circle-detail">Dictamen de enajenación de acciones</h4>
+                                        <p class="body-circle-detail">Este es un servicio para las personas físicas que venden acciones donde delimita el valor correcto de las acciones además del correcto cálculo de impuestos en dicha venta.</p>
                                     </div>
                                 </div>
                             </li>
@@ -42,7 +42,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-5"><i class="fa fa-circle huerin-orange"></i>Auditoria 32H.</a>
+                            <li><a class="list-body" id="auditoria-5"><i class="fa fa-circle huerin-orange"></i>Auditoría 32H.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-5">
                                     <div class="content-circle" id="auditoria5">
                                         <h4 class="title-circle-detail">Auditoria 32H</h4>
@@ -61,15 +61,11 @@
                         </ul>
                         <h5>Trámites y Gestoría</h5>
                         <ul class="list-group">
-                            <li><a class="list-body" id="auditoria-7"><i class="fa fa-circle huerin-orange"></i>Cambio de domicilio.</a>
+                            <li><a class="list-body noEfect" id="auditoria-7"><i class="fa fa-circle huerin-orange"></i>Cambio de domicilio.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-7">
-                                    <div class="content-circle" id="auditoria7">
-                                        <h4 class="title-circle-detail">Cambio de domicilio</h4>
-                                        <p class="body-circle-detail">Apertura o cierre de establecimiento o sucursales.</p>
-                                    </div>
                                 </div>
                             </li>
-                            <li><a class="list-body noEfect" id="auditoria-8"><i class="fa fa-circle huerin-orange"></i>Tramite de las claves obligatorias de las diferentes autoridades.</a>
+                            <li><a class="list-body noEfect" id="auditoria-8"><i class="fa fa-circle huerin-orange"></i>Trámite de las claves obligatorias de las diferentes autoridades.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-8">
                                     <div class="content-circle" id="auditoria8">
                                     </div>
@@ -96,14 +92,14 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body noEfect" id="auditoria-12"><i class="fa fa-circle huerin-orange"></i>Revisión a auditorias de las diferentes autoridades.</a>
+                            <li><a class="list-body noEfect" id="auditoria-12"><i class="fa fa-circle huerin-orange"></i>Revisión a auditorías de las diferentes autoridades.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-12">
                                     <div class="content-circle" id="auditoria12">
 
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body noEfect" id="auditoria-13"><i class="fa fa-circle huerin-orange"></i>Contestación a consultas relativas a la operación de la empresa en el área contable fiscal o financiera.</a>
+                            <li><a class="list-body noEfect" id="auditoria-13"><i class="fa fa-circle huerin-orange"></i>Consultas acerca de la operación de la empresa en el área contable, fiscal o financiera.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-13">
                                     <div class="content-circle" id="auditoria13">
 
