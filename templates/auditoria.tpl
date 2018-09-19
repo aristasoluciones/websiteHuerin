@@ -2,13 +2,23 @@
     <div class="background tersus-about-custom audit"></div>
     <div class="bind-narrow bind-narrow-md">
         <div class="container">
+            <div class="section-title-6 text-center">
+                <h2>Auditoría</h2>
+                <p>El objetivo del servicio de auditoría es emitir un informe sobre la situación fiscal de la sociedad, así como,
+                    expresar una opinión sobre dichos estados financieros, preparados de conformidad con las normas de
+                    información financiera.</p>
+                <p>Contamos con los profesionales idóneos para analizar los resultados del registro de operaciones efectuadas
+                    con el fin de comprobar que las disposiciones hayan sido cumplidas de acuerdo a las normas.</p>
+            </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="icon-box icon-box-boxed2-huerin">
-                        <h4>AUDITORÍA</h4>
-                        <p>Contamos con los profesionales idóneos para analizar los resultados del registro de operaciones efectuadas con el fin de comprobar que las disposiciones
-                            hayan sido cumplidas de acuerdo a las normas.</p>
-                        <h5>Servicios</h5>
+                    <div class="icon-box icon-box-boxed2-noPadding">
+                        <h4></h4>
+                        <p class="description-3"></p>
+                        <p class="description-3">
+
+                        </p>
+                        <h4>Principales servicios del área de auditoría</h4>
                         <ul class="list-group">
                             <li><a class="list-body" id="auditoria-1"><i class="fa fa-circle huerin-orange"></i>Estudios de precios de transferencia.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-1">
@@ -42,10 +52,10 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a class="list-body" id="auditoria-5"><i class="fa fa-circle huerin-orange"></i>Auditoría 32H.</a>
+                            <li><a class="list-body" id="auditoria-5"><i class="fa fa-circle huerin-orange"></i>Auditoría de acuerdo al artículo 32H del CFF.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-5">
                                     <div class="content-circle" id="auditoria5">
-                                        <h4 class="title-circle-detail">Auditoria 32H</h4>
+                                        <h4 class="title-circle-detail">Auditoría de acuerdo al artículo 32H del CFF</h4>
                                         <p class="body-circle-detail">Te ayudamos a presentar la declaración informativa sobre operaciones con el extranjero regulada en el articulo 32H del código fiscal de la federación.</p>
                                     </div>
                                 </div>
@@ -58,52 +68,12 @@
                                     </div>
                                 </div>
                             </li>
-                        </ul>
-                        <h5>Trámites y Gestoría</h5>
-                        <ul class="list-group">
-                            <li><a class="list-body noEfect" id="auditoria-7"><i class="fa fa-circle huerin-orange"></i>Cambio de domicilio.</a>
+                            <li><a class="list-body noEfect" id="auditoria-7"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de la información de la sociedad.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-7">
                                 </div>
                             </li>
-                            <li><a class="list-body noEfect" id="auditoria-8"><i class="fa fa-circle huerin-orange"></i>Trámite de las claves obligatorias de las diferentes autoridades.</a>
+                            <li><a class="list-body noEfect" id="auditoria-8"><i class="fa fa-circle huerin-orange"></i>Consultas acerca de la operación de la empresa en el área contable, fiscal o financiera.</a>
                                 <div class="circle-detail popup-detail" id="auditoria-8">
-                                    <div class="content-circle" id="auditoria8">
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a class="list-body noEfect" id="auditoria-9"><i class="fa fa-circle huerin-orange"></i>Aumento o disminución de obligaciones.</a>
-                                <div class="circle-detail popup-detail" id="auditoria-9">
-                                    <div class="content-circle" id="auditoria9">
-
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a class="list-body noEfect" id="auditoria-10"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de comprobantes y declaraciones.</a>
-                                <div class="circle-detail popup-detail" id="auditoria-10">
-                                    <div class="content-circle" id="auditoria10">
-
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a class="list-body noEfect" id="auditoria-11"><i class="fa fa-circle huerin-orange"></i>Revisión a requerimientos de las diferentes autoridades.</a>
-                                <div class="circle-detail popup-detail" id="auditoria-11">
-                                    <div class="content-circle" id="auditoria11">
-
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a class="list-body noEfect" id="auditoria-12"><i class="fa fa-circle huerin-orange"></i>Revisión a auditorías de las diferentes autoridades.</a>
-                                <div class="circle-detail popup-detail" id="auditoria-12">
-                                    <div class="content-circle" id="auditoria12">
-
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a class="list-body noEfect" id="auditoria-13"><i class="fa fa-circle huerin-orange"></i>Consultas acerca de la operación de la empresa en el área contable, fiscal o financiera.</a>
-                                <div class="circle-detail popup-detail" id="auditoria-13">
-                                    <div class="content-circle" id="auditoria13">
-
-                                    </div>
                                 </div>
                             </li>
                         </ul>

@@ -115,7 +115,7 @@ jQuery(document).ready(function($) {
         //-------------------------------------------------------------------------------
         $('body').scrollspy({target: '#navigation-1', offset: 88});
 
-    $( '#navigation-1-collapse' ).find( 'a[href*=#]:not([href=#])' ).on( 'click', function () {
+      $( '#navigation-1-collapse' ).find( 'a[href*=#]:not([href=#])' ).on( 'click', function () {
             if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
                 var target = $(this.hash);
                 target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
@@ -123,19 +123,33 @@ jQuery(document).ready(function($) {
                     $('html,body').animate({
                         scrollTop: (target.offset().top - 40)
                     }, 1000);
-    				
+
     				if($('.navbar-toggle').css('display') !='none'){
     					$(this).parents('.container').find(".navbar-toggle").trigger( "click" );
-    				}				
+    				}
+                    return false;
+                }
+            }
+        });
+        $( '#areas' ).find( 'a[href*=#]:not([href=#])' ).on( 'click', function (e) {
+            e.preventDefault();
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: (target.offset().top - 40)
+                    }, 1000);
                     return false;
                 }
             }
         });
 
-    $( '#navigation-1 .navbar-toggle.large-view' ).on( 'click', function () {
+       $( '#navigation-1 .navbar-toggle.large-view' ).on( 'click', function () {
             $('.navbar-offcanvas').toggleClass('shownupdown');
 
         });
+
 
 
         // scroll
@@ -374,7 +388,7 @@ jQuery(document).ready(function($) {
         });
     });
 
-	$( '.icon-box.icon-box-boxed2-huerin ul > li > a' ).on('click',function () {
+	$( '.icon-box.icon-box-boxed2-huerin ul > li > a,.icon-box.icon-box-boxed2-noPadding ul > li > a' ).on('click',function () {
         var splitName = this.id.split("-");
 
              $('.circle-detail#'+splitName[0]+'-'+splitName[1]).addClass('show-element');

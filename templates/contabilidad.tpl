@@ -2,17 +2,22 @@
     <div class="background tersus-about-custom acount"></div>
     <div class="bind-narrow bind-narrow-md">
         <div class="container">
+            <div class="section-title-6 text-center">
+                <h2>Contabilidad</h2>
+                <p>Es una de las áreas más fuertes del despacho, El objetivo principal de nuestro servicio es la contabilización
+                    de sus operaciones, determinación de impuestos, presentación de declaraciones y elaboración de estados
+                    financieros, preparados de conformidad con las normas de información financiera, así como el cumplimiento fiscal en el tiempo y forma como lo indican las leyes vigentes correspondientes.</p>
+            </div>
             <div class="row">
                 <div class="col-md-12">
-                    <div class="icon-box icon-box-boxed2-huerin">
-                        <h4>Contabilidad</h4>
-                        <p>Contamos con un equipo de profesionales capacitados para desarrollar estrategias efectivas que llevarán a tu empresa a cumplir correctamente con las obligaciones fiscales.</p>
+                    <div class="icon-box icon-box-boxed2-noPadding">
+                        <h4>Principales servicios del area de contabilidad</h4>
                         <h5>Personas físicas</h5>
                         <ul class="list-group">
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-1"><i class="fa fa-circle huerin-orange"></i>Declaraciones en ceros.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-1"><i class="fa fa-circle huerin-orange"></i>Actualización de obligaciones y declaraciones en ceros.</a>
                                 <div class="circle-detail popup-detail" id="audit-1">
                                     <div class="content-circle" id="audit1">
-                                        <h4 class="title-circle-detail">Declaraciones en ceros</h4>
+                                        <h4 class="title-circle-detail">Actualización de obligaciones y declaraciones en ceros.</h4>
                                         <p class="body-circle-detail">Si eres persona física o moral y no tienes operaciones, pero aun así tienes que cumplir con tus obligaciones fiscales.
                                     </div>
                                 </div>
@@ -33,10 +38,10 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-4"><i class="fa fa-circle huerin-orange"></i>Incorporación fiscal (RIF).</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-4"><i class="fa fa-circle huerin-orange"></i>Régimen de incorporación fiscal (RIF).</a>
                                 <div class="circle-detail popup-detail" id="audit-4">
                                     <div class="content-circle" id="audit4">
-                                        <h4 class="title-circle-detail">Incorporación fiscal (RIF)</h4>
+                                        <h4 class="title-circle-detail">Régimen de incorporación fiscal (RIF)</h4>
                                         <p class="body-circle-detail">Si eres una persona física que tiene un pequeño negocio mercantil como una tienda , farmacia, tintorería, etc.</p>
                                     </div>
                                 </div>
@@ -73,29 +78,37 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-9"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y declaraciones informativas.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-9"><i class="fa fa-circle huerin-orange"></i>Declaraciones mensuales, anuales y declaraciones informativas.</a>
                                 <div class="circle-detail popup-detail" id="audit-9">
                                     <div class="content-circle" id="audit9">
-                                        <h4 class="title-circle-detail">Declaraciones anuales y declaraciones informativas</h4>
+                                        <h4 class="title-circle-detail">Declaraciones mensuales, anuales y declaraciones informativas</h4>
                                         <p class="body-circle-detail">Si eres persona física y necesitas cumplir con tus obligaciones anuales.</p>
                                     </div>
+                                </div>
+                            </li>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-29"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de comprobantes y declaraciones.</a>
+                                <div class="circle-detail popup-detail" id="audit-29">
+                                </div>
+                            </li>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-30"><i class="fa fa-circle huerin-orange"></i>Consultas acerca de la operación de la empresa en el área contable,fiscal o financiera.</a>
+                                <div class="circle-detail popup-detail" id="audit-30">
                                 </div>
                             </li>
                         </ul>
                         <h5>Personas morales</h5>
                         <ul class="list-group">
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-10"><i class="fa fa-circle huerin-orange"></i>Declaraciones en cero.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-10"><i class="fa fa-circle huerin-orange"></i>Actualización de obligaciones y declaraciones en ceros.</a>
                                 <div class="circle-detail popup-detail" id="audit-10">
                                     <div class="content-circle" id="audit10">
-                                        <h4 class="title-circle-detail">Declaraciones en cero</h4>
+                                        <h4 class="title-circle-detail">Actualización de obligaciones y declaraciones en ceros</h4>
                                         <p class="body-circle-detail">Si eres una persona moral que no tiene operaciones, pero aun así tienes que cumplir con tus obligaciones fiscales.</p>
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-11"><i class="fa fa-circle huerin-orange"></i>General de ley.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-11"><i class="fa fa-circle huerin-orange"></i>Régimen general de ley.</a>
                                 <div class="circle-detail popup-detail" id="audit-11">
                                     <div class="content-circle" id="audit11">
-                                        <h4 class="title-circle-detail">General de ley</h4>
+                                        <h4 class="title-circle-detail">Régimen general de ley</h4>
                                         <p class="body-circle-detail">Si eres una sociedad mercantil legalmente constituida necesitas cumplir con tus obligaciones fiscales.</p>
                                     </div>
                                 </div>
@@ -108,10 +121,16 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-13"><i class="fa fa-circle huerin-orange"></i>Asesoría contable y fiscal.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-24"><i class="fa fa-circle huerin-orange"></i>Donatarias autorizadas o sociedades con fines no lucrativos.</a>
+                                <div class="circle-detail popup-detail" id="audit-24">
+                                    <div class="content-circle" id="audit24">
+                                    </div>
+                                </div>
+                            </li>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-13"><i class="fa fa-circle huerin-orange"></i>Asesoría fiscal y financiera.</a>
                                 <div class="circle-detail popup-detail" id="audit-13">
                                     <div class="content-circle" id="audit13">
-                                        <h4 class="title-circle-detail">Asesoría contable y fiscal</h4>
+                                        <h4 class="title-circle-detail">Asesoría fiscal y financiera</h4>
                                         <p class="body-circle-detail">Ayudamos a todo tipo de contribuyentes a cumplir correctamente con sus obligaciones contables y fiscales.</p>
                                     </div>
                                 </div>
@@ -124,7 +143,7 @@
                                     </div>
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body" id="audit-15"><i class="fa fa-circle huerin-orange"></i>Declaraciones anuales y declaraciones informativas.</a>
+                            <li><a href='javascript:void(0);' class="list-body" id="audit-15"><i class="fa fa-circle huerin-orange"></i>Declaraciones mensuales, anuales y declaraciones informativas.</a>
                                 <div class="circle-detail popup-detail" id="audit-15">
                                     <div class="content-circle" id="audit15">
                                         <h4 class="title-circle-detail">Declaraciones anuales y declaraciones informativas</h4>
@@ -132,52 +151,14 @@
                                     </div>
                                 </div>
                             </li>
-                        </ul>
-                        <h5>Tramites de gestoría</h5>
-                        <ul class="list-group">
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-16"><i class="fa fa-circle huerin-orange"></i>Cambio de domicilio, apertura o cierre de establecimiento o sucursales.</a>
-                                <div class="circle-detail popup-detail" id="audit-16">
-                                    <div class="content-circle" id="audit16">
-                                    </div>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-25"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de comprobantes y declaraciones.</a>
+                                <div class="circle-detail popup-detail" id="audit-25">
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-17"><i class="fa fa-circle huerin-orange"></i>Trámite de las claves obligatorias de las diferentes autoridades.</a>
-                                <div class="circle-detail spopup-detail" id="audit-17">
-                                    <div class="content-circle" id="audit17">
-                                    </div>
+                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-26"><i class="fa fa-circle huerin-orange"></i>Consultas acerca de la operación de la empresa en el área contable,fiscal o financiera.</a>
+                                <div class="circle-detail popup-detail" id="audit-26">
                                 </div>
                             </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-18"><i class="fa fa-circle huerin-orange"></i>Aumento o disminución de obligaciones.</a>
-                                <div class="circle-detail popup-detail" id="audit-18">
-                                    <div class="content-circle" id="audit18">
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-19"><i class="fa fa-circle huerin-orange"></i>Organización y archivo de comprobantes y declaraciones.</a>
-                                <div class="circle-detail popup-detail" id="audit-19">
-                                    <div class="content-circle" id="audit19">
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-20"><i class="fa fa-circle huerin-orange"></i>Revisión a requerimientos de las diferentes autoridades.</a>
-                                <div class="circle-detail popup-detail" id="audit-20">
-                                    <div class="content-circle" id="audit20">
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-21"><i class="fa fa-circle huerin-orange"></i>Revisión a auditorias de las diferentes autoridades.</a>
-                                <div class="circle-detail popup-detail" id="audit-21">
-                                    <div class="content-circle" id="audit21">
-                                    </div>
-                                </div>
-                            </li>
-                            <li><a href='javascript:void(0);' class="list-body noEfect" id="audit-22"><i class="fa fa-circle huerin-orange"></i>Consultas acerca de la operación de la empresa en el área contable, fiscal o financiera.</a>
-                                <div class="circle-detail popup-detail" id="audit-22">
-                                    <div class="content-circle" id="audit22">
-                                    </div>
-                                </div>
-                            </li>
-
                         </ul>
                     </div>
                 </div>

@@ -1,4 +1,8 @@
 @media (max-width:991px){
+    .spacing-default {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
     .icon-box-boxed2-about{
         padding-left: 0px;
         box-sizing: border-box;
@@ -8,19 +12,15 @@
         box-sizing: border-box;
     }
     .tersus-about-custom.sistema{
-        background: url('../img/style-movil/2018-6-movil.jpg');
+        background: url('../img/style-movil/2018-6-movil.jpg') no-repeat center center fixed;
         background-size: cover;
-        background-position:center;
-        position: absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height:100%;
     }
     .tersus-about-custom.admin{
-        background-position:center;
-        position: absolute;
-        background: url('../img/style-movil/2018-8-movil.jpg');
+        background: url('../img/style-movil/2018-8-movil.jpg') no-repeat center center fixed;
         background-size:cover;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
@@ -28,19 +28,15 @@
         height:100%;
     }
     .tersus-about-custom.acount{
-        background: url('../img/style-movil/2018-5-movil.jpg');
+        background: url('../img/style-movil/2018-5-movil.jpg') no-repeat center center fixed;
         background-size: cover;
-        background-position:center;
-        position: absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height:100%;
     }
     .tersus-about-custom.about{
-        background-position:center;
-        position: absolute;
-        background: url('../img/style-movil/2018-3-movil.jpg');
+        background: url('../img/style-movil/2018-3-movil.jpg') no-repeat center center fixed;
         background-size: cover;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
@@ -48,9 +44,7 @@
         height:100%;
     }
     .tersus-about-custom.audit{
-        background-position:center;
-        position: absolute;
-        background: url('../img/style-movil/2018-1-movil.jpg');
+        background: url('../img/style-movil/2018-1-movil.jpg') no-repeat center center fixed;
         background-size: cover;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
@@ -58,78 +52,69 @@
         height:100%;
     }
     .tersus-about-custom.juridico {
-        background: url('../img/style-movil/2018-7-movil.jpg');
+        background: url('../img/style-movil/2018-7-movil.jpg') no-repeat center center fixed;
         background-size: cover;
-        background-position:center;
-        position:absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height: 100%;
     }
     .tersus-about-custom.contacto{
-        background: url('../img/style-movil/2018-9-movil.jpg');
+        background: url('../img/style-movil/2018-9-movil.jpg') no-repeat center center fixed;
         background-size:cover;
-        background-position: center;
-        position: absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height:100%;
     }
     .tersus-about-custom.invertir{
-        background: url('../img/style-movil/2018-10-movil.jpg');
+        background: url('../img/style-movil/2018-10-movil.jpg') no-repeat center center fixed;
         background-size:cover;
-        background-position: center;
-        position: absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height:100%;
     }
     .tersus-about-custom.nomina{
-        background: url('../img/style-movil/2018-2-movil.jpg');
+        background: url('../img/style-movil/2018-2-movil.jpg') no-repeat center center fixed;
         background-size:cover;
-        background-position: center;
-        position: absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height:100%;
     }
     .tersus-about-custom.rhumano{
-        background: url('../img/style-movil/2018-4-movil.jpg');
+        background: url('../img/style-movil/2018-4-movil.jpg') no-repeat center center fixed;
         background-size:cover;
-        background-position: center;
-        position: absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height:100%;
     }
     .tersus-about-custom.fiscal{
-        background: url('../img/style-movil/2018-12-movil.jpg');
+        background: url('../img/style-movil/2018-12-movil.jpg') no-repeat center center fixed;
         background-size:cover;
-        background-position: center;
-        position: absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height:100%;
     }
     .tersus-about-custom.job{
-        background: url('../img/style-movil/2018-11-movil.jpg');
+        background: url('../img/style-movil/2018-11-movil.jpg') no-repeat center center fixed;
         background-size:cover;
-        background-position: center;
-        position: absolute;
         -webkit-transition: all .3s ease;
         -moz-transition: all .3s ease;
         -o-transition: all .3s ease;
         height:100%;
     }
-    .home1{
-        background-image:url('../img/style-movil/2018-home1-movil.jpg')
-    }
+    .tersus-about-custom.home{
+        background: url('../img/style-movil/2018-home1-movil.jpg') no-repeat center center fixed;
+        background-size:cover;
+        -webkit-transition: all .3s ease;
+        -moz-transition: all .3s ease;
+        -o-transition: all .3s ease;
+        height:100%;
+    }s
     .tersus-navigation-5 .navbar-nav > li > a {
         padding-top:6px;
         padding-bottom: 8px;
@@ -137,4 +122,60 @@
     .mapmexico{
 
     }
+    .icon-box ul >li a {
+        font-size: 15px;
+    }
+    .icon-box ul > li > a:hover, .icon-box .icon, .icon-box ul > li > a:focus {
+        cursor:alias;
+        -webkit-transition: all 200ms ease-in;
+        -webkit-transform: scale(1.02);
+        -ms-transition: all 200ms ease-in;
+        -ms-transform: scale(1.02);
+        -moz-transition: all 200ms ease-in;
+        -moz-transform: scale(1.02);
+        transition: all 200ms ease-in;
+        transform: scale(1.02);
+        text-decoration: none;
+        font-weight: 600;
+        color: #f38b00;
+    }
+    .icon-box ul > li > a.noEfect:hover, .icon-box .icon, .icon-box ul > li > a.noEfect:focus {
+        cursor:default;
+        display:inline-block;
+        -webkit-transition: all 200ms ease-in;
+        -webkit-transform: scale(1);
+        -ms-transition: all 200ms ease-in;
+        -ms-transform: scale(1);
+        -moz-transition: all 200ms ease-in;
+        -moz-transform: scale(1);
+        transition: all 200ms ease-in;
+        text-decoration: none;
+        transform: scale(1);
+        list-style: none;
+        font-weight: 400;
+        color: #fff;
+    }
+    .tersus-navigation-5 .navbar-nav > li > a  {
+        font-size: 13px;
+    }
+
+    /* areas servicio*/
+    .section-title-6 {
+        display: flex;
+        flex-direction: column;
+    }
+    .section-title-6 p:before {
+        width: 100%;
+        content: "";
+        position: absolute;
+        height: 1px;
+        background-color: #f38b00;
+        padding-bottom: -35px;
+        margin: -10px 0px 0px 0px ;
+    }
+    .section-title-6 h2 {
+        margin-right: 0px;
+        margin-bottom: -63px;
+    }
+
 }

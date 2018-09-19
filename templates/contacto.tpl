@@ -1,18 +1,13 @@
-<div class="section spacing-default overlay-gray-custom bg-dark tersus-block-about-8" id="contacto">
+<div class="section spacing-default tersus-block-services-9" id="contacto">
     <div class="background tersus-about-custom contacto"></div>
     <div class="bind-narrow bind-narrow-md">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="icon-box icon-box-boxed2-huerin">
-                        <h4>SUCURSALES</h4>
-                        <p class="description-center last-parrafo">Bahía de Guantánamo 79, Col. Verónica Anzures, 11300, CDMX, México
-                            <span>  Tels: (55)5579-8161, (55)5590-9455, (55)5579-9533 y (55)5579-6458.</p>
-                       <p class="description-center last-parrafo">Av. Conscripto No. 95 Int. 8, Col. Manuel Ávila Camacho Gral,
-                           Naucalpan de Juárez, Estado de México. Tel.(55)91540156.</span></p>
-                        <p class="description-center last-parrafo">Carretera Transpeninsular Km 24.5 Col. Cerro Colorado, San José del Cabo; Los Cabos, Baja California Sur, CP 23400.</p>
-                        <p class="description-center last-parrafo">Rafaela 3741 CP. 1407 Ciudad Autónoma de Buenos Aires.</p>
-                        <p class="description-center last-parrafo">San Pedro Ave Ste 100, #12500, Bexar County TX, San Antonio, TX, USA, 78216.</p>
+                        <h4>Escríbenos</h4>
+                       <p class="description-3">Para consultas o solicitudes que requieren una respuesta más personalizada, intentaremos responder en las próximas 48 horas. </p>
+                       <p class="description-3">Si prefiere contactarnos vía telefónica, por favor navegue a la seccion INICIO, para mayor información. </p>
                     </div>
                     <div class="clearfix"></div>
                 </div>

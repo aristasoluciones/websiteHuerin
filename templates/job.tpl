@@ -6,8 +6,8 @@
                 <div class="col-md-12">
                     <div class="icon-box icon-box-boxed2-huerin">
                         <h4>¿Por qué Braun Huerin?</h4>
-                        <p>En Braun Huerin buscamos siempre la mejora en la calidad de vida y el progreso de todos nuestros integrantes.</p>
-                        <p>Pretendemos ser la elección que marque un cambio importante en tu desarrollo profesional y de vida.</p>
+                        <p class="description-3">En Braun Huerin buscamos siempre la mejora en la calidad de vida y el progreso de todos nuestros integrantes.</p>
+                        <p class="description-3">Pretendemos ser la elección que marque un cambio importante en tu desarrollo profesional y de vida.</p>
                         <h5>Entre los beneficios con los que contamos están:</h5>
                         <ul class="list-group">
                             <li><a class="list-body noEfect" id="audit10"><i class="fa fa-circle huerin-orange"></i>Continuas oportunidades de crecimiento.</a></li>

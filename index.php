@@ -9,22 +9,22 @@
 
 	$pages = array(
 		'homepage',
-		'contabilidad',
 		'nosotros',
-		'auditoria',
+		/*'auditoria',
 		'juridico',
         'nomina',
         'administracion',
         'fiscal',
         'rhumano',
+        'contabilidad',
+		'sistema',*/
         'imexico',
         'contacto',
-		'sistema',
 		'job',
-		'index'
+		'index',
+        'areas'
 
 	);
-
 	$page = $_GET['page'];
 	$section = $_GET['section'];
 
